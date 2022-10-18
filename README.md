@@ -46,7 +46,26 @@ THEN I find a concise, descriptive title
 
 Github Repository: https://github.com/laboettcher/Bootcamp-Week-1-Challenge
 
-
+Deployed Application: https://laboettcher.github.io/Bootcamp-Week-1-Challenge/
 
 ## References
 
+https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/#:~:text=Refactoring%20is%20a%20recommended%20approach,t%20any%20higher%20priority%20tasks.
+
+https://cssguidelin.es/
+
+https://www.w3schools.com/css/css_navbar.asp
+
+https://www.w3schools.com/tags/default.asp
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://www.w3schools.com/html/default.asp
+
+https://stackoverflow.com/questions/5137465/what-are-alternatives-to-the-span-element
+
+https://www.codecademy.com/forum_questions/50329c05c09e7200020020d6#:~:text=Difference%20between%20and%20tags,-I%20don't&text=is%20for%20emphasis.,element)%20with%20no%20default%20styling.
+
+https://www.w3schools.com/html/html_comments.asp
+
+https://www.w3schools.com/tags/att_area_alt.asp#:~:text=Definition%20and%20Usage,user%20uses%20a%20screen%20reader).
